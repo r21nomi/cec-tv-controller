@@ -1,0 +1,11 @@
+{
+  "name": "cec-tv-controller",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:r21nomi/cec-tv-controller.git",
+  "author": "r21nomi <r21nomi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-cec": "^0.1.2"
+  }
+}
